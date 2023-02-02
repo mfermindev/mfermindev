@@ -27,8 +27,6 @@ I'm software developed
 ![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)
 ![Motorola](https://img.shields.io/static/v1?style=for-the-badge&message=Motorola&color=E1140A&logo=Motorola&logoColor=FFFFFF&label=)
 
-#![GitHub metrics](https://metrics.lecoq.io/mfermindev)
-
 
 <!--
 **mfermindev/mfermindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
