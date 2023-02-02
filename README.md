@@ -15,17 +15,19 @@ I'm software developed
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 
+**Plaform:**
 ![NVIDIA](https://img.shields.io/static/v1?style=for-the-badge&message=NVIDIA&color=222222&logo=NVIDIA&logoColor=76B900&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=)
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 
+**Arch:**
 ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=)
 ![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)
 ![Motorola](https://img.shields.io/static/v1?style=for-the-badge&message=Motorola&color=E1140A&logo=Motorola&logoColor=FFFFFF&label=)
 
-![GitHub metrics](https://metrics.lecoq.io/mfermindev)
+#![GitHub metrics](https://metrics.lecoq.io/mfermindev)
 
 
 <!--
